@@ -1,8 +1,6 @@
-import config
-from config import Config
+from services.open_weather import fetch_weather
 
-print(Config.WEATHER_API_KEY)
-print(Config.CITY)
+fetch_weather()
 
 # tworzenie repozytorium
 # git init
