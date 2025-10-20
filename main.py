@@ -15,3 +15,14 @@ print(Config.CITY)
 
 # dodanie wszystkiego
 # git add .
+
+#stworzenie commita - punkt w czasie do którego można wracać
+# git commit -m "wiadomosc"
+
+# lista commitów
+# git log --oneline
+
+a = 5
+b = 10
+
+print(b)
