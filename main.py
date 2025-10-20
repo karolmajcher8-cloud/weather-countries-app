@@ -22,7 +22,10 @@ print(Config.CITY)
 # lista commitów
 # git log --oneline
 
-a = 5
-b = 10
+#  podróżowanie po commitach
+# git checkout id_commita
 
-print(b)
+# powrót do teraźniejszości
+# git checkout -
+
+
