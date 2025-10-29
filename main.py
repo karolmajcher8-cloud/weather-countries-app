@@ -1,6 +1,8 @@
 from services.open_weather import fetch_weather
 
-fetch_weather()
+weather = fetch_weather()
+
+print(weather)
 
 # tworzenie repozytorium
 # git init
